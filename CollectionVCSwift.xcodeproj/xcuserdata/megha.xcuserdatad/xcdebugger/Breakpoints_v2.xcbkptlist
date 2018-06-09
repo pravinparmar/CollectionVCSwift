@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CollectionVCSwift/ImageDisplayVC.swift"
+            timestampString = "545595576.601983"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ImageDisplayVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionVCSwift.ImageDisplayVC.imageDisplay.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "CollectionVCSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/megha/Desktop/Demo/CollectionVCSwift/CollectionVCSwift/ImageDisplayVC.swift"
+                  timestampString = "549117216.909608"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionVCSwift.ImageDisplayVC.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; CollectionVCSwift.ImageDisplayVC"
+                  moduleName = "CollectionVCSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/megha/Desktop/Demo/CollectionVCSwift/CollectionVCSwift/ImageDisplayVC.swift"
+                  timestampString = "549117216.911548"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "169">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CollectionVCSwift.ImageDisplayVC.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CollectionVCSwift.ImageDisplayVC&gt;"
+                  moduleName = "CollectionVCSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/megha/Desktop/Demo/CollectionVCSwift/CollectionVCSwift/ImageDisplayVC.swift"
+                  timestampString = "549117216.913409"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
